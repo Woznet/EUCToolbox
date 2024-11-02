@@ -6,8 +6,8 @@
 .COMPANYNAME 
 .COPYRIGHT GPL
 .TAGS intune endpoint MEM
-.LICENSEURI https://github.com/andrew-s-taylor/public/blob/main/LICENSE
-.PROJECTURI https://github.com/andrew-s-taylor/public
+.LICENSEURI https://github.com/Woznet/public/blob/main/LICENSE
+.PROJECTURI https://github.com/Woznet/public
 .ICONURI 
 .EXTERNALMODULEDEPENDENCIES
 .REQUIREDSCRIPTS 

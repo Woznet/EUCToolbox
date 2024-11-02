@@ -16,7 +16,7 @@
  * GNU General Public License for more details.
  *
  * You should have received a copy of the GNU General Public License
- * along with this program. If not, see <https://github.com/andrew-s-taylor/public/blob/main/LICENSE>.
+ * along with this program. If not, see <https://github.com/Woznet/public/blob/main/LICENSE>.
  */
 ?>
 <div id="menu">
