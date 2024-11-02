@@ -10,7 +10,7 @@
             }
         },
         "automationRegion": {
-            "defaultValue": "uksouth",
+            "defaultValue": "eastus2",
             "type": "string",
             "allowedValues": [
                 "westeurope",
@@ -23,7 +23,7 @@
                 "australiasoutheast",
                 "centralindia",
                 "westcentralus",
-                "uksouth",
+                "eastus2",
                 "westus",
                 "eastus",
                 "westus2",

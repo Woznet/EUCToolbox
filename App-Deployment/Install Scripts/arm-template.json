@@ -10,7 +10,7 @@
             }
         },
         "automationRegion": {
-            "defaultValue": "uksouth",
+            "defaultValue": "eastus2",
             "type": "string",
             "allowedValues": [
                 "westeurope",
@@ -23,7 +23,7 @@
                 "australiasoutheast",
                 "centralindia",
                 "westcentralus",
-                "uksouth",
+                "eastus2",
                 "westus",
                 "eastus",
                 "westus2",
@@ -94,7 +94,7 @@
             "metadata": {
                 "description": "Name of the app service"
             },
-            "defaultValue": "AppDeploy-EUCToolbox"
+            "defaultValue": "AppDeploy-EUCToolboxWozVersion"
         },
         "gitRepoUrl": {
             "type": "string",
